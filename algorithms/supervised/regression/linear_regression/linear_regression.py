@@ -8,4 +8,4 @@ class LinearRegression :
         self.theta=theta
         self.cost_history=cost_history
     def fit(self,X,y):
-        
+        self.theta= np.full()
